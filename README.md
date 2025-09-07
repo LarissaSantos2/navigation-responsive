@@ -17,6 +17,5 @@ A página contém:
 1. Clone o repositório ou baixe os arquivos.  
 2. Abra o arquivo **index.html** em qualquer navegador.  
 
-👉 Acesse também a versão online:  
 ```bash
 https://larissasantos2.github.io/navigation-responsive/
