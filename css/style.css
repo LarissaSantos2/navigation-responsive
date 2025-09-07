@@ -71,9 +71,8 @@ a:hover {
   display: none;
 }
 
-
 section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url(../img/section-image.jpg);
   background-size: cover;
   height: calc(100vh - 80px);
@@ -125,4 +124,3 @@ section {
     left: 0;
   }
 }
-
